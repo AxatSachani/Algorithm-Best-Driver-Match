@@ -1,0 +1,17 @@
+[
+    {
+        "fromCurrency": "$",
+        "toCurrency": "₹",
+        "rate": "82.65"
+    },
+    {
+        "fromCurrency": "£",
+        "toCurrency": "₹",
+        "rate": "102.34"
+    },
+    {
+        "fromCurrency": "£",
+        "toCurrency": "$",
+        "rate": "1.24"
+    }
+]

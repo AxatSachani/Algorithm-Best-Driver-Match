@@ -1,0 +1,414 @@
+[
+  {
+    "id": 1,
+    "name": "John",
+    "lastName": "Braar",
+    "experience": "2.5",
+    "hourlyRate": "10",
+    "currency": "$",
+    "prefferedStartLocation": [
+      "Gulbarga",
+      "Lucknow",
+      "Ujjain",
+      "Nizamabad",
+      "Tumkur",
+      "Ozhukarai",
+      "Sagar"
+    ],
+    "prefferedEndLocation": [
+      "Mumbai",
+      "Vadodara",
+      "Jaipur",
+      "Indore",
+      "Rajkot",
+      "Bangalore",
+      "hyderabad"
+    ],
+    "unprefferedLocationRate": "1.5",
+    "truckClass": "2",
+    "distanceBasedRate": {
+      "0-50": "20",
+      "51-100": "15",
+      "101-150": "10",
+      "151-200": "10",
+      "200+": "8"
+    },
+    "minimumKmForHourlyRate": "20",
+    "driverReview": "4.1",
+    "tripsCompleted": "289",
+    "accidentRate": "9",
+    "isHired": false,
+    "availableAfter": ""
+  },
+  {
+    "id": 2,
+    "name": "David",
+    "lastName": "Born",
+    "experience": "8.5",
+    "hourlyRate": "15",
+    "currency": "£",
+    "prefferedStartLocation": [
+      "Jammu",
+      "Pune",
+      "Mumbai",
+      "Jaipur",
+      "Indore",
+      "Jodhpur"
+    ],
+    "prefferedEndLocation": [
+      "Mumbai",
+      "Vadodara",
+      "Jaipur",
+      "Indore",
+      "Rajkot",
+      "Bangalore",
+      "hyderabad"
+    ],
+    "unprefferedLocationRate": "1.3",
+    "truckClass": "1",
+    "distanceBasedRate": {
+      "0-50": "15",
+      "51-100": "15",
+      "101-150": "10",
+      "151-200": "10",
+      "200+": "10"
+    },
+    "minimumKmForHourlyRate": "15",
+    "driverReview": "3.9",
+    "tripsCompleted": "502",
+    "accidentRate": "13",
+    "isHired": false,
+    "availableAfter": ""
+  },
+  {
+    "id": 3,
+    "name": "Parker",
+    "lastName": "Green",
+    "experience": "5.5",
+    "hourlyRate": "20",
+    "currency": "$",
+    "prefferedStartLocation": [
+      "Gulbarga",
+      "Lucknow",
+      "Ujjain",
+      "Nizamabad",
+      "Tumkur",
+      "Ozhukarai",
+      "Sagar"
+    ],
+    "prefferedEndLocation": [
+      "Jammu",
+      "Pune",
+      "Mumbai",
+      "Jaipur",
+      "Indore",
+      "Jodhpur"
+    ],
+    "unprefferedLocationRate": "1.3",
+    "truckClass": "1",
+    "distanceBasedRate": {
+      "0-50": "20",
+      "51-100": "20",
+      "101-150": "15",
+      "151-200": "15",
+      "200+": "10"
+    },
+    "minimumKmForHourlyRate": "10",
+    "driverReview": "4.4",
+    "tripsCompleted": "700",
+    "accidentRate": "7",
+    "isHired": true,
+    "availableAfter": "1.5"
+  },
+  {
+    "id": 4,
+    "name": "Walker",
+    "lastName": "Prone",
+    "experience": "9.5",
+    "hourlyRate": "50",
+    "currency": "$",
+    "prefferedStartLocation": [
+      "Vasai",
+      "Surat",
+      "Pune",
+      "Jaipur",
+      "Indore",
+      "Chennai",
+      "Bangalore",
+      "hyderabad"
+    ],
+    "prefferedEndLocation": [
+      "Kolkata",
+      "Raipur",
+      "Solapur",
+      "Patna",
+      "Indore",
+      "Dispur"
+    ],
+    "unprefferedLocationRate": "1.4",
+    "truckClass": "2",
+    "distanceBasedRate": {
+      "0-50": "60",
+      "51-100": "55",
+      "101-150": "50",
+      "151-200": "45",
+      "200+": "40"
+    },
+    "minimumKmForHourlyRate": "17",
+    "driverReview": "4.1",
+    "tripsCompleted": "487",
+    "accidentRate": "11",
+    "isHired": false,
+    "availableAfter": ""
+  },
+  {
+    "id": 5,
+    "name": "Michael",
+    "lastName": "King",
+    "experience": "10.1",
+    "hourlyRate": "65",
+    "currency": "$",
+    "prefferedStartLocation": [
+      "Gulbarga",
+      "Lucknow",
+      "Ujjain",
+      "Nizamabad",
+      "Tumkur",
+      "Ozhukarai",
+      "Sagar"
+    ],
+    "prefferedEndLocation": [
+      "Amritsar",
+      "Coimbatore",
+      "Jabalpur",
+      "Jaipur",
+      "Indore",
+      "Gwalior",
+      "Bangalore",
+      "Vijayawada"
+    ],
+    "unprefferedLocationRate": "1.4",
+    "truckClass": "1",
+    "distanceBasedRate": {
+      "0-50": "65",
+      "51-100": "60",
+      "101-150": "55",
+      "151-200": "45",
+      "200+": "45"
+    },
+    "minimumKmForHourlyRate": "8",
+    "driverReview": "4.1",
+    "tripsCompleted": "487",
+    "accidentRate": "11",
+    "isHired": false,
+    "availableAfter": ""
+  },
+  {
+    "id": 6,
+    "name": "Proman",
+    "lastName": "Nurs",
+    "experience": "8.3",
+    "hourlyRate": "30",
+    "currency": "$",
+    "prefferedStartLocation": [
+      "Jaipur",
+      "Lucknow",
+      "Indore",
+      "Thane",
+      "Coimbatore",
+      "Agra",
+      "Bikaner"
+    ],
+    "prefferedEndLocation": [
+      "Amravati",
+      "Noida",
+      "Jabalpur",
+      "Jamshedpur",
+      "Indore",
+      "Gwalior",
+      "Bangalore",
+      "Jamnagar"
+    ],
+    "unprefferedLocationRate": "1.5",
+    "truckClass": "3",
+    "distanceBasedRate": {
+      "0-50": "40",
+      "51-100": "35",
+      "101-150": "30",
+      "151-200": "25",
+      "200+": "20"
+    },
+    "minimumKmForHourlyRate": "5",
+    "driverReview": "4.7",
+    "tripsCompleted": "997",
+    "accidentRate": "5",
+    "isHired": true,
+    "availableAfter": "1.3"
+  },
+  {
+    "id": 7,
+    "name": "Smity",
+    "lastName": "Pro",
+    "experience": "4.3",
+    "hourlyRate": "15",
+    "currency": "£",
+    "prefferedStartLocation": [
+      "Gulbarga",
+      "Lucknow",
+      "Ujjain",
+      "Nizamabad",
+      "Tumkur",
+      "Ozhukarai",
+      "Sagar"
+    ],
+    "prefferedEndLocation": [
+      "Imphal",
+      "Ambernath",
+      "Jabalpur",
+      "Katihar",
+      "Vizianagaram",
+      "Haridwar",
+      "Bangalore",
+      "Mango"
+    ],
+    "unprefferedLocationRate": "1.1",
+    "truckClass": "1",
+    "distanceBasedRate": {
+      "0-50": "25",
+      "51-100": "20",
+      "101-150": "15",
+      "151-200": "15",
+      "200+": "10"
+    },
+    "minimumKmForHourlyRate": "0",
+    "driverReview": "4.2",
+    "tripsCompleted": "1004",
+    "accidentRate": "7",
+    "isHired": true,
+    "availableAfter": "0.5"
+  },
+  {
+    "id": 8,
+    "name": "More",
+    "lastName": "Mike",
+    "experience": "12.7",
+    "hourlyRate": "44",
+    "currency": "$",
+    "prefferedStartLocation": [
+      "Nagercoil",
+      "Bulandshahr",
+      "Ujjain",
+      "Bharatpur",
+      "Tumkur",
+      "Ozhukarai",
+      "Etawah"
+    ],
+    "prefferedEndLocation": [
+      "Bathinda",
+      "Purnia",
+      "Satna",
+      "Mau",
+      "Panipat",
+      "Rampur",
+      "Bilaspur",
+      "Kadapa"
+    ],
+    "unprefferedLocationRate": "1.7",
+    "truckClass": "1",
+    "distanceBasedRate": {
+      "0-50": "55",
+      "51-100": "50",
+      "101-150": "45",
+      "151-200": "40",
+      "200+": "20"
+    },
+    "minimumKmForHourlyRate": "8",
+    "driverReview": "4.9",
+    "tripsCompleted": "1504",
+    "accidentRate": "10.5",
+    "isHired": "false",
+    "availableAfter": ""
+  },
+  {
+    "id": 9,
+    "name": "Ryan",
+    "lastName": "Currel",
+    "experience": "7.7",
+    "hourlyRate": "30",
+    "currency": "$",
+    "prefferedStartLocation": [
+      "Nagercoil",
+      "Shahjahanpur",
+      "Ahmednagar",
+      "Brahmapur",
+      "Kadapa",
+      "Kulti",
+      "Etawah"
+    ],
+    "prefferedEndLocation": [
+      "Kakinada",
+      "Purnia",
+      "Parbhani",
+      "Mau",
+      "Panipat",
+      "Barasat",
+      "Bilaspur",
+      "Kadapa"
+    ],
+    "unprefferedLocationRate": "1",
+    "truckClass": "2",
+    "distanceBasedRate": {
+      "0-50": "35",
+      "51-100": "30",
+      "101-150": "25",
+      "151-200": "25",
+      "200+": "25"
+    },
+    "minimumKmForHourlyRate": "5",
+    "driverReview": "4.8",
+    "tripsCompleted": "304",
+    "accidentRate": "6",
+    "isHired": "false",
+    "availableAfter": ""
+  },
+  {
+    "id": 10,
+    "name": "Ahem",
+    "lastName": "Barrel",
+    "experience": "6.8",
+    "hourlyRate": "10",
+    "currency": "$",
+    "prefferedStartLocation": [
+      "Jammu",
+      "Pune",
+      "Mumbai",
+      "Jaipur",
+      "Indore",
+      "Jodhpur"
+    ],
+    "prefferedEndLocation": [
+      "Mumbai",
+      "Vadodara",
+      "Jaipur",
+      "Indore",
+      "Rajkot",
+      "Bangalore",
+      "hyderabad"
+    ],
+    "unprefferedLocationRate": "1.1",
+    "truckClass": "1",
+    "distanceBasedRate": {
+      "0-50": "20",
+      "51-100": "15",
+      "101-150": "10",
+      "151-200": "10",
+      "200+": "10"
+    },
+    "minimumKmForHourlyRate": "12",
+    "driverReview": "4.3",
+    "tripsCompleted": "777",
+    "accidentRate": "4",
+    "isHired": "false",
+    "availableAfter": ""
+  }
+]
